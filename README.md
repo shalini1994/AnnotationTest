@@ -1,0 +1,2 @@
+# AnnotationTest
+Maven project
